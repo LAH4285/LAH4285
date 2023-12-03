@@ -21,6 +21,14 @@
   </div>
 </p>
 
+### ✨저는 이런사람입니다
+- 국비 수업 시 프로젝트 팀장 경험, 책임감 중시
+- 지속적인 기록, 정리, 문서화
+- 모든 일을 즐기려는 마음
+- 목표 달성 을 위해 끊임없이 도전하는 정신
+- 고객 중심 프로그래밍 설계
+
+
 <!--
 **LAH4285/LAH4285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
