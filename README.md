@@ -21,6 +21,9 @@
   </div>
 </p>
 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hardcording&theme=tistory)](https://hardcording.tistory.com)
+
+
 ### ✨저는 이런사람입니다
 - 국비 수업 시 프로젝트 팀장 경험, 책임감 중시
 - 지속적인 기록, 정리, 문서화
